@@ -101,7 +101,8 @@ Hi there! I'm **Ishaan Guleria** — An IT professional passionate about learnin
 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ishaan-guleria)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ishaan-guleria)
+
 
 
 
