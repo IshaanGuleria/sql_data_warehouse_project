@@ -97,10 +97,11 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 About Me
-Hi there! I'm **Ishaan Guleria** — an IT professional passionate about learning, building, and delivering impactful solutions that drive real-world results.
+Hi there! I'm **Ishaan Guleria** — An IT professional passionate about learning, building, and delivering impactful solutions that drive real-world results.
 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ishaan-guleria)
 
 
 
