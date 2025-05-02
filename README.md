@@ -101,7 +101,7 @@ Hi there! I'm **Ishaan Guleria** — An IT professional passionate about learnin
 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ishaan-guleria)
+[Connect with me on LinkedIn](www.linkedin.com/in/ishaan-guleria-865858200)
 
 
 
